@@ -67,3 +67,6 @@ A: M4A4 - Entertainment: Video Games
 Auto Quiz - Garden 🧠
 Q: Which of the following landlocked countries is entirely contained within another country?
 A: Lesotho - Geography
+Auto Quiz - Park 🧠
+Q: What happened to Half-Life 2 prior to its release, which resulted in Valve starting over the development of the game?
+A: The source code got leaked - Entertainment: Video Games
