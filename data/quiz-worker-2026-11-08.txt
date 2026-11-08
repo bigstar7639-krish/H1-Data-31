@@ -58,3 +58,6 @@ A: 9 - Entertainment: Video Games
 Auto Quiz - Monsoon 🧠
 Q: The Space Needle is located in which city?
 A: Seattle - Geography
+Auto Quiz - Night 🧠
+Q: In the show, Doctor Who, what does T.A.R.D.I.S stand for?
+A: Time And Relative Dimensions In Space - Entertainment: Television
