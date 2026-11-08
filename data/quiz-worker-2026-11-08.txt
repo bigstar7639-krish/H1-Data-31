@@ -85,3 +85,6 @@ A: Sukiyaki - Entertainment: Music
 Auto Quiz - Bike 🧠
 Q: What is the romanized Japanese word for "university"?
 A: Daigaku - General Knowledge
+Auto Quiz - Car 🧠
+Q: Which area of Eastern Europe is famous for its association with vampires?
+A: Transylvania - Geography
