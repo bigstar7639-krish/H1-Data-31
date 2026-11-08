@@ -103,3 +103,6 @@ A: Rick Riordan - Entertainment: Books
 Auto Quiz - Kavithai 🧠
 Q: What programming language does the Source Engine use?
 A: C++  - Entertainment: Video Games
+Auto Quiz - Thirukkural 🧠
+Q: Which country does the power metal band "Sabaton" originate from?
+A: Sweden - Entertainment: Music
