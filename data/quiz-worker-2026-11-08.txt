@@ -100,3 +100,6 @@ A: Ursus Maritimus - Animals
 Auto Quiz - Book 🧠
 Q: What is the name of the author of book series 'Percy Jackson'?
 A: Rick Riordan - Entertainment: Books
+Auto Quiz - Kavithai 🧠
+Q: What programming language does the Source Engine use?
+A: C++  - Entertainment: Video Games
