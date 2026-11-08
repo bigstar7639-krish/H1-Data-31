@@ -72,3 +72,4 @@ Book - isbn_9781534672925 - The Truth Healer : Book 1: The Rosie Parker Mystery
 Book - bwb_Y0-DCL-531 - The New York Times COOK BOOK
 Kavithai - fte_book_keeranin-kavithai-keetrugal - Keeranin Kavithai Keetrugal
 Kavithai - cbfc-ecinepramaan-100030291800001735 - KADHAL KAVITHAI
+Thirukkural - TNLA-DB-7-1984-8-63-1-QH5_1984-03-23 - Thirukkural Research Laboratory at Valluvar Kottam
