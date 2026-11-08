@@ -74,3 +74,4 @@ Kavithai - fte_book_keeranin-kavithai-keetrugal - Keeranin Kavithai Keetrugal
 Kavithai - cbfc-ecinepramaan-100030291800001735 - KADHAL KAVITHAI
 Thirukkural - TNLA-DB-7-1984-8-63-1-QH5_1984-03-23 - Thirukkural Research Laboratory at Valluvar Kottam
 Thirukkural - saurashtra-thirukkural - Saurashtra Thirukkural
+Pazhamozhi - 14PazhamozhiThirumanam1917 - 14 Pazhamozhi Thirumanam 1917
