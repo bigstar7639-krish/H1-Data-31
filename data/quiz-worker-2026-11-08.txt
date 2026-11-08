@@ -97,3 +97,6 @@ A: Demolition - General Knowledge
 Auto Quiz - Computer 🧠
 Q: What is the scientific name for the "Polar Bear"?
 A: Ursus Maritimus - Animals
+Auto Quiz - Book 🧠
+Q: What is the name of the author of book series 'Percy Jackson'?
+A: Rick Riordan - Entertainment: Books
