@@ -112,3 +112,6 @@ A: Goombario - Entertainment: Video Games
 Auto Quiz - Joke 🧠
 Q: What does the 'S' in the RSA encryption algorithm stand for?
 A: Shamir - Science: Computers
+Auto Quiz - Reading 🧠
+Q: What was the first superhero film James Gunn was involved with?
+A: The Specials - Entertainment: Film
