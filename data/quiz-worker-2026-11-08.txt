@@ -109,3 +109,6 @@ A: Sweden - Entertainment: Music
 Auto Quiz - Pazhamozhi 🧠
 Q: In the game Paper Mario for the Nintendo 64 the first partner you meet is a Goomba, what is its name?
 A: Goombario - Entertainment: Video Games
+Auto Quiz - Joke 🧠
+Q: What does the 'S' in the RSA encryption algorithm stand for?
+A: Shamir - Science: Computers
