@@ -62,3 +62,4 @@ Car - tdmcarcollection1 - TDM Car Collection 1
 Car - incrediblecarstu0000omot - Incredible car stunts
 Train - letrainsarreteka0000andr - Le Train S'arrete a Ka
 Train - bwb_KU-358-471 - last train from berlin
+Flight - bwb_C0-AQJ-013 - flight maneuvers complete programmed course
